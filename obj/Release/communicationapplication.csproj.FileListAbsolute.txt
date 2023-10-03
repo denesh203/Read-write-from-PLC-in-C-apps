@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\testing\2communicationapplication\bin\Release\Database1.mdf
+C:\Users\user\Desktop\testing\2communicationapplication\bin\Release\Database1_log.ldf
+C:\Users\user\Desktop\testing\2communicationapplication\bin\Release\communicationapplication.exe.config
+C:\Users\user\Desktop\testing\2communicationapplication\bin\Release\communicationapplication.exe
+C:\Users\user\Desktop\testing\2communicationapplication\bin\Release\communicationapplication.pdb
+C:\Users\user\Desktop\testing\2communicationapplication\obj\Release\communicationapplication.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\testing\2communicationapplication\obj\Release\communicationapplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\testing\2communicationapplication\obj\Release\Interop.ActUtlTypeLib.dll
+C:\Users\user\Desktop\testing\2communicationapplication\obj\Release\communicationapplication.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\testing\2communicationapplication\obj\Release\communicationapplication.Form1.resources
+C:\Users\user\Desktop\testing\2communicationapplication\obj\Release\communicationapplication.Properties.Resources.resources
+C:\Users\user\Desktop\testing\2communicationapplication\obj\Release\communicationapplication.csproj.GenerateResource.cache
+C:\Users\user\Desktop\testing\2communicationapplication\obj\Release\communicationapplication.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\testing\2communicationapplication\obj\Release\communicationapplication.exe
+C:\Users\user\Desktop\testing\2communicationapplication\obj\Release\communicationapplication.pdb

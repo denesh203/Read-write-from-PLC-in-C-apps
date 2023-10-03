@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\testingfinal\2communicationapplication\bin\Debug\communicationapplication.exe.config
+C:\Users\user\Desktop\testingfinal\2communicationapplication\bin\Debug\communicationapplication.exe
+C:\Users\user\Desktop\testingfinal\2communicationapplication\bin\Debug\communicationapplication.pdb
+C:\Users\user\Desktop\testingfinal\2communicationapplication\obj\Debug\2communicationapplication.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\testingfinal\2communicationapplication\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\user\Desktop\testingfinal\2communicationapplication\obj\Debug\2communicationapplication.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\testingfinal\2communicationapplication\obj\Debug\communicationapplication.Form1.resources
+C:\Users\user\Desktop\testingfinal\2communicationapplication\obj\Debug\communicationapplication.Properties.Resources.resources
+C:\Users\user\Desktop\testingfinal\2communicationapplication\obj\Debug\2communicationapplication.csproj.GenerateResource.cache
+C:\Users\user\Desktop\testingfinal\2communicationapplication\obj\Debug\2communicationapplication.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\testingfinal\2communicationapplication\obj\Debug\communicationapplication.exe
+C:\Users\user\Desktop\testingfinal\2communicationapplication\obj\Debug\communicationapplication.pdb
